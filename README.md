@@ -1,5 +1,5 @@
 # marioOpenGL
-[![Image](screenshot.PNG)]
+![Image](screenshot.PNG)
 
 Figura de Mario hecha a base de polígonos 2D utilizando openGL y glut.
 
