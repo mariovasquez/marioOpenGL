@@ -1,8 +1,6 @@
 # marioOpenGL
-![Image](screenshot.PNG)
-
 Figura de Mario hecha a base de polígonos 2D utilizando openGL y glut.
-
+![Image](screenshot.PNG)
 # Miembros del grupo:
 - [Arribasplata, Luis](https://github.com/SaCSeBaS)
 - [Esparza, Jose](https://github.com/pebeto)
